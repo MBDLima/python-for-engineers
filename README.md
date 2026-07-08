@@ -113,3 +113,9 @@ After Sales Support Engineer
 Power Transformers
 
 Learning Python and Artificial Intelligence for Engineering Applications
+
+## Progress
+
+Module 0
+
+- Lesson 0.6 in progress
